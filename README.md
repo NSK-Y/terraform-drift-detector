@@ -118,7 +118,7 @@ These are planned improvements, not claims that the features are already impleme
 
 ## Upstream Attribution
 
-This project is based on the original open-source Terraform Drift Detector created by Abhishek sirS.
+This project is based on the original open-source Terraform Drift Detector created by Abhishek sir.
 
 The original project's applicable copyright notices and license terms are preserved. Additional modifications and features are documented as development progresses.
 ## Development Tools
