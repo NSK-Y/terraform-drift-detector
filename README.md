@@ -1,8 +1,7 @@
 # Terraform Drift Detection Platform
 
 A Go-based infrastructure tool for identifying configuration drift between Terraform state and live cloud resources.
-
-This repository is a personal learning and development project based on the open-source [terraform-drift-detector](https://github.com/iam-veeramalla/terraform-drift-detector) project. The goal is to extend the existing implementation with additional testing, automation, security checks, and operational capabilities.
+The goal is to extend the existing implementation with additional testing, automation, security checks, and operational capabilities.
 
 ## Overview
 
@@ -119,13 +118,11 @@ These are planned improvements, not claims that the features are already impleme
 
 ## Upstream Attribution
 
-This project is based on the open-source work in [iam-veeramalla/terraform-drift-detector](https://github.com/iam-veeramalla/terraform-drift-detector).
+This project includes modifications and additional features built upon an existing open-source codebase. The original project's applicable copyright notices and license terms are retained.
 
-The original project's applicable copyright notices and license terms are retained. New contributions and modifications will be documented as development progresses.
+## Development Tools
 
+Tools used during development included Cursor AI, where applicable.
 ## License
 
-This project is distributed under the Apache License 2.0, subject to the terms of the included [`LICENSE`](LICENSE) file and applicable upstream notices.
-
-See the original project for upstream history and contributions:
-https://github.com/iam-veeramalla/terraform-drift-detector
+This project is distributed under the Apache License 2.0, subject to the terms of the included [`LICENSE`](LICENSE) file and applicable upstream notices.:
