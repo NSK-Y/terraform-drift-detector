@@ -69,6 +69,9 @@ go build -o bin/driftctl ./cmd/driftctl
 ```bash
 ./bin/driftctl scan --state testdata/state/sample.tfstate --provider aws --skip-cloud
 ```
+```
+./bin/driftctl scan --state /home/ubuntu/drift-project/terraform.tfstate --provider aws --region ap-southeast-2
+```
 
 ### Run the API server
 
